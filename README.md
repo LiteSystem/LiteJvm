@@ -8,7 +8,7 @@
    eclipse-cpp-2018-09-linux-gtk-x86_64
 
 编译工程：
-  在工程目录下 执行命令 cmake . , 再执行命令 make 
+  在工程目录下 执行命令 cmake . (注意有个. 号),   再执行命令 make 
   将在 bin目录产生 可执行文件 litejvm
   
 
