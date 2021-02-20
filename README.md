@@ -3,9 +3,9 @@
 
 
 开发环境：
-  g++   4.8.4
-  cmake 3.5
-  eclipse-cpp-2018-09-linux-gtk-x86_64
+   g++   4.8.4
+   cmake 3.5
+   eclipse-cpp-2018-09-linux-gtk-x86_64
 
 编译工程：
   在工程目录下 执行命令 cmake . , 再执行命令 make 
