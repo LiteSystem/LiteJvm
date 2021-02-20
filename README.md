@@ -3,17 +3,17 @@
 
 
 开发环境：
-  g++   4.8.4
-  cmake 3.5
-  eclipse-cpp-2018-09-linux-gtk-x86_64
+   g++   4.8.4
+   cmake 3.5
+   eclipse-cpp-2018-09-linux-gtk-x86_64
 
 编译工程：
-  在工程目录下 执行命令 cmake . , 再执行命令 make 
+  在工程目录下 执行命令 cmake . (注意有个. 号),   再执行命令 make 
   将在 bin目录产生 可执行文件 litejvm
   
 
 
 运行vm:     
 
- 用如下命令执行class 文件:
-./litejvm test2.class 
+ 在Bin目录下，用如下命令执行class 文件:
+./litejvm Fib.class 
