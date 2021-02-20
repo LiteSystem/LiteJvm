@@ -15,5 +15,5 @@
 
 运行vm:     
 
- 用如下命令执行class 文件:
-./litejvm test2.class 
+ 在Bin目录下，用如下命令执行class 文件:
+./litejvm Fib.class 
